@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi GudangIn</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_barang">
+        <item>Makanan</item>
+        <item>Minuman</item>
+    </string-array>
+</resources>
